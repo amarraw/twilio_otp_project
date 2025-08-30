@@ -28,7 +28,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/django-twilio-otp.git
+git clone https://github.com/amarraw/django-twilio-otp.git
 cd django-twilio-otp
 
 
